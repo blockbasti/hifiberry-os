@@ -4449,6 +4449,7 @@ BR2_PACKAGE_HIFIBERRY_LOCALBROWSER=y
 #
 # Libraries
 #
+BR2_PACKAGE_V4L_UTILS=y
 
 #
 # Python modules
